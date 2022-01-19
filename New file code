@@ -1,0 +1,5 @@
+git stash for moving the files from workspace
+git stash list for seeing the list of files in stash repo
+git stash clear for removing files from these repo
+git stash every time you move files from work space to git stash a unique messages will be added in the begining of the file name, if you want to move files from 
+git stash to workspace then you should copy that respective unique message with the command like git stash apply unique message
